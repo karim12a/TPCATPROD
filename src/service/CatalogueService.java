@@ -43,6 +43,7 @@ public class CatalogueService {
 	@GET
 	@Path("/categories/{idCat}/produit")
 	@Produces(MediaType.APPLICATION_JSON)
+	//liste de produits pas categorie
 	public List<Produit> detailProduitCat(@PathParam("idCat") int idCat)
 	{
 		
