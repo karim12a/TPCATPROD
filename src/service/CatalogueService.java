@@ -14,7 +14,9 @@ import com.sun.org.glassfish.gmbal.ParameterNames;
 import metier.CategorieMetierImp;
 import metier.entities.Categorie;
 import metier.entities.Produit;
-//the root for the catalogue
+//test pull request  new branch
+//test2 change branch
+
 @Path ("/catalogue")
 public class CatalogueService {
 	
