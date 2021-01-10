@@ -15,6 +15,7 @@ import metier.CategorieMetierImp;
 import metier.entities.Categorie;
 import metier.entities.Produit;
 //test pull request  new branch
+//test2 change branch
 
 @Path ("/catalogue")
 public class CatalogueService {
